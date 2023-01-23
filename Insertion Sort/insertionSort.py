@@ -17,5 +17,6 @@ def insertion_sort(list):
     return list
 
 
+# Result = [1,2,3,5,6,8]
 example = [3, 6, 5, 8, 2, 1]
 print(insertion_sort(example))
